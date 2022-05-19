@@ -1,6 +1,6 @@
 # Python Bots
 
-Bots I created in Python.
+I created this bots in Python.
 
 -----------
 
